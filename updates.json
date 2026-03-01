@@ -1,0 +1,22 @@
+{
+  "service-office": {
+    "version": "1.0.6",
+    "download_url": "https://github.com/faithreborn/service-office-app/releases/download/v1.0.6/Service.Office.exe",
+    "release_notes": "تحديثات وتحسينات في الأداء"
+  },
+  "morasala-office": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.0/Morasala.Office.exe",
+    "release_notes": "الإصدار الأول"
+  },
+  "fatora-office": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.0/Logiceil.exe",
+    "release_notes": "الإصدار الأول"
+  },
+  "launcher": {
+    "version": "1.0.0",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.0/Service-Office-Launcher.msi",
+    "release_notes": "الإصدار الأول من Launcher"
+  }
+}
