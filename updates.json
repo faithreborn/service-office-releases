@@ -15,8 +15,8 @@
     "release_notes": "الإصدار الأول"
   },
   "launcher": {
-    "version": "1.0.0",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.0/Service-Office-Launcher.msi",
-    "release_notes": "الإصدار الأول من Launcher"
+    "version": "1.0.6",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.6/Service.Office.Launcher_1.0.6_x86-setup.exe",
+    "release_notes": "إصلاح قراءة رقم الإصدار + نظام تحديثات أونلاين + إغلاق التطبيق قبل التحديث"
   }
 }
