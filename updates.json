@@ -1,8 +1,8 @@
 {
   "service-office": {
     "version": "1.0.7",
-    "download_url": "https://github.com/faithreborn/service-office-app/releases/download/v1.0.7/Service.Office.exe",
-    "release_notes": "تحديثات وتحسينات - دعم قراءة الإصدار"
+    "download_url": "https://github.com/faithreborn/service-office-app/releases/download/v1.0.7/Service.Office.v1.0.7.exe",
+    "release_notes": "تحديث: إضافة رقم الإصدار v1.0.7 في الواجهة"
   },
   "morasala-office": {
     "version": "1.0.0",
