@@ -11,8 +11,8 @@
   },
   "fatora-office": {
     "version": "1.0.0",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.0/Logiceil.exe",
-    "release_notes": "الإصدار الأول"
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/logiceil-v1.0.0/Logiceil.exe",
+    "release_notes": "الإصدار الأول - نظام متكامل لإدارة الخدمات والفوترة"
   },
   "launcher": {
     "version": "1.0.6",
