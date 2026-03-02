@@ -5,9 +5,9 @@
     "release_notes": "إصلاح: مشكلة timeout في التحميل - تم زيادة المهلة إلى 10 دقائق"
   },
   "morasala-office": {
-    "version": "1.0.1",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/morasala-v1.0.1/Morasala.Office.exe",
-    "release_notes": "تحسينات: إضافة تاريخ الميلاد في Excel + إصلاح RTL"
+    "version": "1.0.2",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/morasala-v1.0.2/Morasala.Office.exe",
+    "release_notes": "إضافة رقم الاستمارة في Excel + إصلاح نسخ البيانات"
   },
   "fatora-office": {
     "version": "1.0.0",
