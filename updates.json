@@ -15,7 +15,7 @@
     "release_notes": "الإصدار الأول - نظام متكامل لإدارة الخدمات والفوترة"
   },
   "launcher": {
-    "version": "1.0.9",
+    "version": "1.0.7",
     "download_url": "https://drive.google.com/file/d/13opKM3kgUkzSLheULxJnF_nVmDiq910I/view?usp=sharing",
     "release_notes": "نظام النسخ الاحتياطي الموحد + التحقق الدوري من المفاتيح التجريبية"
   }
