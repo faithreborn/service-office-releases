@@ -15,8 +15,8 @@
     "release_notes": "الإصدار الأول - نظام متكامل لإدارة الخدمات والفوترة"
   },
   "launcher": {
-    "version": "1.0.6",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.6/Service.Office.Launcher_1.0.6_x86-setup.exe",
-    "release_notes": "إصلاح قراءة رقم الإصدار + نظام تحديثات أونلاين + إغلاق التطبيق قبل التحديث"
+    "version": "1.0.9",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.9/Service.Office.Launcher.exe",
+    "release_notes": "نظام النسخ الاحتياطي الموحد + التحقق الدوري من المفاتيح التجريبية"
   }
 }
