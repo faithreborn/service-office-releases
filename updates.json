@@ -1,7 +1,7 @@
 {
   "service-office": {
     "version": "1.0.10",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.10/Service Office.exe",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.10/Service.Office.exe",
     "release_notes": "fixing"
   },
   "morasala-office": {
