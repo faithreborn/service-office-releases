@@ -18,5 +18,10 @@
     "version": "1.0.9",
     "download_url": "",
     "release_notes": ""
+  },
+  "logiciel": {
+    "version": "1.0.1",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.1/Logiceil.exe",
+    "release_notes": "fix"
   }
 }
