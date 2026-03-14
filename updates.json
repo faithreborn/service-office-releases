@@ -5,9 +5,9 @@
     "release_notes": "fixing"
   },
   "morasala-office": {
-    "version": "1.0.2",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/morasala-v1.0.2/Morasala.Office.exe",
-    "release_notes": "إضافة رقم الاستمارة في Excel + إصلاح نسخ البيانات"
+    "version": "1.0.3",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.3/Morasala Office.exe",
+    "release_notes": "fix"
   },
   "fatora-office": {
     "version": "1.0.1",
