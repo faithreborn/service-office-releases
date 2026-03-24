@@ -10,8 +10,8 @@
     "release_notes": "fix"
   },
   "fatora-office": {
-    "version": "1.0.1",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.1/Logiceil.exe",
+    "version": "1.0.2",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.2/Logiceil.exe",
     "release_notes": "fix"
   },
   "launcher": {
