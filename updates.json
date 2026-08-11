@@ -16,7 +16,7 @@
   },
   "launcher": {
     "version": "1.0.10",
-    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.10/Service.Office.Launcher_1.0.10_x64-setup.exe",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.10/Service.Office.Launcher.exe",
     "release_notes": "Update version 1.0.10"
   },
   "logiciel": {
