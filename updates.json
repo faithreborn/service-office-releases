@@ -28,5 +28,10 @@
     "version": "1.0.10",
     "download_url": "https://h1.nu/1BpyX",
     "release_notes": "https://h1.nu/1BpyX"
+  },
+  "credi-office": {
+    "version": "1.0.10",
+    "download_url": "https://github.com/faithreborn/service-office-releases/releases/download/v1.0.10/debt-office.exe",
+    "release_notes": "Update version 1.0.10"
   }
 }
